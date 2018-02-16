@@ -10,7 +10,7 @@ $channel = "@L_CC_L"; // قناة اولا
 $channel1 = "@YYIIPP"; // قناة ثانيه
 $sudo = 93252375; // مطور البوت
 ob_start();
-$API_KEY = "538231601:AAHFX2HXwXewpngJoxBwB8hPgcB8_OYW6x0"; // توكنـــك هنا
+$API_KEY = "538231601:AAHFX2HXwXewpngJoxBwB8hPgcB8_OYW7x0"; // توكنـــك هنا
 echo "https://api.telegram.org/bot$API_KEY/setwebhook?url=".$_SERVER['SERVER_NAME']."".$_SERVER['SCRIPT_NAME'];
 define('API_KEY',$API_KEY);
   //SHARE Contact  V1
