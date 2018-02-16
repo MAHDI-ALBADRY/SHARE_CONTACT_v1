@@ -1,2 +1,18 @@
-# SHARE_CONTACT_v1
-سورس مشاركة جهة اتصال في قناتين يمكنك اضافتهم في الملف 
+# <p align="center" style="color:#cb3349" > [<< SHARE_CONTACT_v1 >> V1 (V1)](https://telegram.me/DEVASL)
+
+ <p align="center" style="color: #14635c;" > SHARE_CONTACT_v1
+<p align="center"><img src="1.jpg" alt="بوت مشاركة جهتك" title="بوت مشاركة جهتك">
+
+***
+
+# <p align="center" style="color: #14635c;" > التنصيب
+
+<br>
+
+# <p align="center"> ❖￤  للاستفسار راسلني 
+
+  [MAHDI ALBADRY](https://telegram.me/MAHDI_ALBADRY) <br>
+  
+  [CH - TH3BOSS](https://telegram.me/DEVASL) <br>
+  
+  [Group Support](https://t.me/joinchat/BY7rF0wmagKKbSGcN980-g)<br>
