@@ -11,6 +11,6 @@
 
   [MAHDI ALBADRY](https://telegram.me/MAHDI_ALBADRY) <br>
   
-  [CH - TH3BOSS](https://telegram.me/DEVASL) <br>
+  [CH - DEVASL TEAM](https://telegram.me/DEVASL) <br>
   
   [Group Support](https://t.me/joinchat/BY7rF0wmagKKbSGcN980-g)<br>
