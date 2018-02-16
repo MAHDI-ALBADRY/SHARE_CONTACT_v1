@@ -3,11 +3,11 @@
 
 ***
 
-# <p align="center" style="color: #14635c;" > التنصيب
+# <p align="center" style="color: #14635c;" > التنـصيب - Installation
 
 <br>
 
-# <p align="center"> ❖￤  للاستفسار راسلني 
+# <p align="center"> ❖￤  للاستـفسار راسلـني -  Contact us
 
   [MAHDI ALBADRY](https://telegram.me/MAHDI_ALBADRY) <br>
   
