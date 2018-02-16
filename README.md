@@ -2,7 +2,14 @@
 <p align="center"><img src="https://cdn2.iconfinder.com/data/icons/user-management/512/share-512.png" alt="بوت مشاركة جهتك" title="بوت مشاركة جهتك">
 
 ***
-
+```sh
+المميزات !
+1- يرسل لقناتين انت تحددهن
+2- يرسل جهتين انت تضيفهم بلملف 
+3- يعمل في المجموعات بسرعه 
+4- ميزة قفل البوت على قناتك لزيادة القنوات 
+5- نشر للكل - عدد المشتركين ارسل الاوامر لمعرفة المزيد
+```
 # <p align="center" style="color: #14635c;" > التنـصيب - Installation
 ```sh
 قم بعمل بوت من @BotFather
